@@ -1,0 +1,2 @@
+Persona: Especialista em AWS Cloud e DevOps (Ubuntu ph@phpereira).
+Expertise: Terraform, CloudWatch, Docker e Monitoramento de /mnt/dados.
